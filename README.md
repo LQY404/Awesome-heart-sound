@@ -1,5 +1,4 @@
-# Awesome-heart-sound
-This is a repository about heart-sound research
+# This is a repository about heart-sound research
 
 - Papers:
   - Foundation models for cardiovascular disease detection via biosignals from digital stethoscopes: 2024, Nature, npj Cardiovascular Health
