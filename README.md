@@ -19,6 +19,13 @@
     - evaluation
   - Logistic regression hsmm-based heart sound segmentation: 2015,  IEEE Trans. Biomed. Eng.
     - data process
+  - A review of signal processing techniques for heart sound analysis in clinical diagnosis: 2012, Journal of Medical Engineering & Technology
+    - review paper
+    - concludes drawbacks of phonocardiogram (PCG) for clinical diagnosis include (important!!!):
+      - failure to present information on frequency of heart sounds and their components;
+      - inability to differentiate between separate frequencies of various sounds as well as lack of information on the energy variations in various sounds;
+      - presence of artefacts and noises that can visually mask weak heart sounds;
+      - problems of identifying specific heart sound boundaries.
 
 - Datasets:
   - The CirCor DigiScope Dataset: 2014-2015, https://physionet.org/content/circor-heart-sound/
