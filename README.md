@@ -25,3 +25,4 @@
   - PhysioNet Challenge Dateset: 2016, https://physionet.org/content/challenge-2016/1.0.0/files
   - ThePASCALChallengeDatabase: 2011, https://istethoscope.peterjbentley.com/heartchallenge
   - The ZCHSound Dataset: http://zchsound.ncrcch.org.cn/dataset
+  - Heart Sounds Shenzhen Corpus (HSS): 2019, http://43.163.195.227/hss/
