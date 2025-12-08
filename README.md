@@ -33,3 +33,4 @@
   - ThePASCALChallengeDatabase: 2011, https://istethoscope.peterjbentley.com/heartchallenge
   - The ZCHSound Dataset: http://zchsound.ncrcch.org.cn/dataset
   - Heart Sounds Shenzhen Corpus (HSS): 2019, http://43.163.195.227/hss/
+  - Heart sound dataset (for blood pressure monitoring): https://github.com/Victoria510/HS-BP
