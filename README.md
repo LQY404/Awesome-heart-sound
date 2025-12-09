@@ -1,6 +1,6 @@
 # This is a repository about heart-sound research
 
-- Papers:
+# Papers (Projects):
   - Foundation models for cardiovascular disease detection via biosignals from digital stethoscopes: 2024, Nature, npj Cardiovascular Health
     - dataset (private)
     - model
@@ -27,10 +27,19 @@
       - presence of artefacts and noises that can visually mask weak heart sounds;
       - problems of identifying specific heart sound boundaries.
 
-- Datasets:
+# Datasets:
   - The CirCor DigiScope Dataset: 2014-2015, https://physionet.org/content/circor-heart-sound/
   - PhysioNet Challenge Dateset: 2016, https://physionet.org/content/challenge-2016/1.0.0/files
   - ThePASCALChallengeDatabase: 2011, https://istethoscope.peterjbentley.com/heartchallenge
   - The ZCHSound Dataset: http://zchsound.ncrcch.org.cn/dataset
   - Heart Sounds Shenzhen Corpus (HSS): 2019, http://43.163.195.227/hss/
   - Heart sound dataset (for blood pressure monitoring): https://github.com/Victoria510/HS-BP
+
+# Pre-process 
+  - ...
+
+# Segmentation
+  - ...
+
+# Modeling (Feature extraction and Classification)
+  - ...
