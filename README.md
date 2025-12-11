@@ -39,6 +39,7 @@
   - ...
 
 # Segmentation
+![segmentation methods](Snipaste_2025-12-11_15-25-01.png)
   - ...
 
 # Modeling (Feature extraction and Classification)
