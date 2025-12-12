@@ -10,7 +10,7 @@
   - The Nokia Bell Labs
     - institution: Nokia
     - info: https://www.bell-labs.com/
-  - Cognitive Systems Lab
+  - The Cognitive Systems Lab
     - institution: University of Bremen
     - info: https://www.uni-bremen.de/csl
       
