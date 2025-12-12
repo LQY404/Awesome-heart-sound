@@ -85,4 +85,8 @@
   - Listening to the Heart: Unifying Open Audio Databases for Cardiology Research
     - paper: https://mobile-systems.cl.cam.ac.uk/papers/cinc24.pdf
     - 2024
-  
+
+# Research Tools
+  - torch_ecg: https://github.com/DeepPSP/torch_ecg
+    - torch_ecg: An ECG Deep Learning Framework Implemented using PyTorch
+    - A Novel Deep Learning Package for Electrocardiography Research
