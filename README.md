@@ -10,6 +10,9 @@
   - The Nokia Bell Labs
     - institution: Nokia
     - info: https://www.bell-labs.com/
+  - Cognitive Systems Lab
+    - institution: University of Bremen
+    - info: https://www.uni-bremen.de/csl
       
 # Review Papers:
   - A review of signal processing techniques for heart sound analysis in clinical diagnosis: 2012, Journal of Medical Engineering & Technology
