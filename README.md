@@ -14,7 +14,7 @@
     - institution: University of Bremen
     - info: https://www.uni-bremen.de/csl
       
-# Review Papers:
+# Review Papers
   - A review of signal processing techniques for heart sound analysis in clinical diagnosis: 2012, Journal of Medical Engineering & Technology
     - concludes drawbacks of phonocardiogram (PCG) for clinical diagnosis include (important!!!):
       - failure to present information on frequency of heart sounds and their components;
@@ -25,7 +25,7 @@
   - A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era: 2023
     - https://github.com/zhaoren91/awesome-heart-sound-analysis
       
-# Datasets (open-source mostly):
+# Datasets (open-source mostly)
   - The CirCor DigiScope Dataset: 2014-2015, https://physionet.org/content/circor-heart-sound/
   - PhysioNet Challenge Dateset: 2016, https://physionet.org/content/challenge-2016/1.0.0/files
   - ThePASCALChallengeDatabase: 2011, https://istethoscope.peterjbentley.com/heartchallenge
