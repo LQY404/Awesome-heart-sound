@@ -18,8 +18,10 @@
       - inability to differentiate between separate frequencies of various sounds as well as lack of information on the energy variations in various sounds;
       - presence of artefacts and noises that can visually mask weak heart sounds;
       - problems of identifying specific heart sound boundaries. 
-  - DeepLearninginPhysiological Signal Data: A Survey: 2020, Sensors
-    
+  - Deep Learning in Physiological Signal Data: A Survey: 2020, Sensors
+  - A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era: 2023
+    - https://github.com/zhaoren91/awesome-heart-sound-analysis
+      
 # Datasets (open-source mostly):
   - The CirCor DigiScope Dataset: 2014-2015, https://physionet.org/content/circor-heart-sound/
   - PhysioNet Challenge Dateset: 2016, https://physionet.org/content/challenge-2016/1.0.0/files
@@ -88,3 +90,7 @@
   - torch_ecg: https://github.com/DeepPSP/torch_ecg
     - torch_ecg: An ECG Deep Learning Framework Implemented using PyTorch
     - A Novel Deep Learning Package for Electrocardiography Research
+  - BIOBSS: https://github.com/obss/BIOBSS
+    - A package for processing signals recorded using wearable sensors, such as Electrocardiogram (ECG), Photoplethysmogram (PPG), Electrodermal activity (EDA) and 3-axis acceleration (ACC)
+   
+    - 
