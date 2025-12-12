@@ -40,7 +40,7 @@
 ![segmentation methods](Snipaste_2025-12-11_15-25-01.png)
   - .
 
-# Modeling (Feature extraction(Foundation Model) and Classification)
+# Modeling (Feature extraction(Foundation Model)) and Classification
   - Foundation models for cardiovascular disease detection via biosignals from digital stethoscopes: 2024, Nature, npj Cardiovascular Health
     - foundation model
     - paper: https://www.nature.com/articles/s44325-024-00027-5
