@@ -7,16 +7,16 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 # Table of Contents
 
 - [Heart-Sound Research Repository](#heart-sound-research-repository)
-- [Laboratories & Projects](#laboratories--projects)
-- [Review Papers](#review-papers)
-- [Datasets (Open-Source)](#datasets-open-source)
-- [Pre-processing](#pre-processing)
-- [Segmentation](#segmentation)
-- [Modeling (Feature Extraction / Foundation Models) & Classification](#modeling-feature-extraction--foundation-models--classification)
-  - [Foundation Models](#foundation-models)
-  - [Task Models](#task-models)
-- [Evaluation](#evaluation)
-- [Research Toolboxes](#research-toolboxes)
+- [Laboratories & Projects](#-laboratories-and-projects)
+- [Review Papers](#-review-papers)
+- [Datasets (Open-Source)](#-datasets-open-source)
+- [Pre-processing](#-pre-processing)
+- [Segmentation](#-segmentation)
+- [Modeling (Feature Extraction / Foundation Models) & Classification](#-modeling-feature-extraction--foundation-models--classification)
+  - [Foundation Models](#-foundation-models)
+  - [Task Models](#-task-models)
+- [Evaluation](#-evaluation)
+- [Research Toolboxes](#-research-toolboxes)
 
 ---
 
@@ -29,7 +29,7 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 ---
 
-# 🏫 Laboratories & Projects
+# 🏫 Laboratories and Projects
 
 ### • The mHealth Research Group  
 - **Institution:** BUET  
