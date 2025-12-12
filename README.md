@@ -1,18 +1,16 @@
 # This is a repository about heart-sound research
 
 # Lab. and Projects
-  - Prof. Hong Tang
-    - institution: 大连理工大学
-    - info: https://faculty.dlut.edu.cn/tanghong_dlut/zh_CN/zhym/709620/list/index.htm
   - The mHealth Research group
     - institution: BUET
     - info: https://mhealth.buet.ac.bd/
-  - NTT Communication Science Laboratories
+  - The NTT Communication Science Laboratories
     - institution: Kyushu University
     - info: https://www.rd.ntt/e/ and https://scholar.google.com/citations?user=s3okiJkAAAAJ&hl=ja
-  - Nokia Bell Labs
+  - The Nokia Bell Labs
     - institution: Nokia
     - info: https://www.bell-labs.com/
+      
 # Review Papers:
   - A review of signal processing techniques for heart sound analysis in clinical diagnosis: 2012, Journal of Medical Engineering & Technology
     - concludes drawbacks of phonocardiogram (PCG) for clinical diagnosis include (important!!!):
