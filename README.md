@@ -1,5 +1,6 @@
-# 🫀 Heart-Sound Research Repository  
-A curated collection of **heart sound (PCG)**–related research resources including major labs, projects, datasets, review papers, segmentation methods, modeling approaches, and toolboxes. Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
+# Heart-Sound Research Repository  
+A collection of **heart sound (PCG)**–related research resources including major labs, projects, datasets, review papers, segmentation methods, modeling approaches, and toolboxes. 
+Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 ---
 
