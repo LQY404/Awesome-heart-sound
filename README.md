@@ -3,23 +3,23 @@
 # Papers (Projects):
   - Foundation models for cardiovascular disease detection via biosignals from digital stethoscopes: 2024, Nature, npj Cardiovascular Health
     - dataset (private)
-    - model
+    - foundation model
   - Listening to the Heart: Unifying Open Audio Databases for Cardiology Research: 2024, University of Cambridge
     - evaluation
   - HSDreport: Heart Sound Diagnosis with Echocardiography Reports: 2024, SJTU, arxiv
     - dataset (private)
-    - model
+    - task model
   - AuscMLLM: Bridging Classification and Reasoning in Heart Sound Analysis with a Multimodal Large Language Model: 2025, SJTU, arxiv
-    - model
+    - task model
   - Heart sound classification using deep learning techniques based on log-mel spectrogram: 2023,  Circuits Syst. Signal Process
     - data process
-    - model
+    - task model
   - An open access database for the evaluation of heart sound algorithms: 2016, Physiological Meas
     - data process
     - evaluation
   - Logistic regression hsmm-based heart sound segmentation: 2015,  IEEE Trans. Biomed. Eng.
     - data process
-  - An electrocardiogram analysis foundation model: 2025, arxiv
+  - ECG-FM: An Open Electrocardiogram Foundation Model: 2025, arxiv
     - ECG signal
     - foundation model
     - code: https://github.com/bowang-lab/ECG-FM
@@ -30,7 +30,8 @@
       - inability to differentiate between separate frequencies of various sounds as well as lack of information on the energy variations in various sounds;
       - presence of artefacts and noises that can visually mask weak heart sounds;
       - problems of identifying specific heart sound boundaries.
-        
+  - Assessing the Utility of Audio Foundation Models for Heart and Respiratory Sound Analysis
+    - evaluation   
 
 # Datasets:
   - The CirCor DigiScope Dataset: 2014-2015, https://physionet.org/content/circor-heart-sound/
