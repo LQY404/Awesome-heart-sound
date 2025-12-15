@@ -31,6 +31,10 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 🏫 Laboratories and Projects
 
+### • BoWang's Lab
+- **Institution:** University of Toronto  
+- **Link:** https://wanglab.ai/
+
 ### • The mHealth Research Group  
 - **Institution:** BUET  
 - **Link:** https://mhealth.buet.ac.bd/
