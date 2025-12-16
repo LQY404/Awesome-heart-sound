@@ -176,9 +176,13 @@ https://github.com/obss/BIOBSS
 - Processing for wearable sensor signals (ECG/PPG/EDA/ACC)
 
 ### • **BioSPPy**  
-https://github.com/PIA-Group/BioSPPy  
+https://github.com/PIA-Group/BioSPPy
+and 
+https://github.com/scientisst/BioSPPy (new)
 - Comprehensive biosignal processing toolkit  
 - Supports BVP, ECG, EDA, EEG, EMG, PCG, PPG, respiration  
-- Includes filtering, frequency analysis, clustering, biometrics  
+- Includes filtering, frequency analysis, clustering, biometrics
+- can now evaluate the quality of your signals (only support ECG and EDA signals)
+  
 
 ---
