@@ -125,6 +125,10 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Paper: https://arxiv.org/abs/2502.01108  
 - Code: https://github.com/maxxu05/pulseppg
 
+### • REBAR: RETRIEVAL-BASED RECONSTRUCTION FOR TIME-SERIES CONTRASTIVE LEARNING (2024)  
+- Paper: https://arxiv.org/pdf/2311.00519 
+- Code: https://github.com/maxxu05/rebar
+
 ### • *Foundation Models for Cardiovascular Disease Detection via Biosignals from Digital Stethoscopes* (2024, Nature npj Cardiovascular Health)  
 - Paper: https://www.nature.com/articles/s44325-024-00027-5
 
