@@ -31,7 +31,12 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 🏫 Laboratories and Projects
 
-### • BoWang's Lab
+
+### • The MIT-LCP
+- **Institution:** MIT
+- **Link:** [https://wanglab.ai/](https://lcp.mit.edu/)
+
+### • The BoWang's Lab
 - **Institution:** University of Toronto  
 - **Link:** https://wanglab.ai/
 
