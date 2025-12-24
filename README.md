@@ -126,6 +126,10 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
 
+### • RELCON: RELATIVE CONTRASTIVE LEARNING FOR A MOTION FOUNDATION MODEL FOR WEARABLE DATA (2025)  
+- Paper: https://arxiv.org/pdf/2411.18822  
+- Code: https://github.com/maxxu05/relcon
+
 ### • Pulse-PPG: Field-Trained PPG Foundation Model (2025)  
 - Paper: https://arxiv.org/abs/2502.01108  
 - Code: https://github.com/maxxu05/pulseppg
