@@ -84,7 +84,7 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
   
 ---
 
-# 📂 Datasets (Open-Source)
+# 📂 PCG Datasets (Open-Source)
 
 ### • **BMD-HS Dataset** (2024)  
 https://github.com/sani002/BMD-HS-Dataset/tree/main
@@ -129,25 +129,31 @@ https://istethoscope.peterjbentley.com/heartchallenge
 ### • RELCON: RELATIVE CONTRASTIVE LEARNING FOR A MOTION FOUNDATION MODEL FOR WEARABLE DATA (2025)  
 - Paper: https://arxiv.org/pdf/2411.18822  
 - Code: https://github.com/maxxu05/relcon
+- PPG
 
 ### • Pulse-PPG: Field-Trained PPG Foundation Model (2025)  
 - Paper: https://arxiv.org/abs/2502.01108  
 - Code: https://github.com/maxxu05/pulseppg
+- PPG
 
 ### • REBAR: RETRIEVAL-BASED RECONSTRUCTION FOR TIME-SERIES CONTRASTIVE LEARNING (2024)  
 - Paper: https://arxiv.org/pdf/2311.00519 
 - Code: https://github.com/maxxu05/rebar
+- PPG
 
 ### • *Foundation Models for Cardiovascular Disease Detection via Biosignals from Digital Stethoscopes* (2024, Nature npj Cardiovascular Health)  
 - Paper: https://www.nature.com/articles/s44325-024-00027-5
+- PCG
 
 ### • ECG-FM: An Open Electrocardiogram Foundation Model (2024)  
 - Paper: https://arxiv.org/pdf/2408.05178  
-- Code: https://github.com/bowang-lab/ECG-FM  
+- Code: https://github.com/bowang-lab/ECG-FM
+- ECG
 
 ### • PAPAGEI: Open Foundation Models for Optical Physiological Signals (2024)  
 - Paper: https://arxiv.org/html/2410.20542v1  
-- Code: https://github.com/Nokia-Bell-Labs/papagei-foundation-model  
+- Code: https://github.com/Nokia-Bell-Labs/papagei-foundation-model
+- PPG
 
 ---
 
