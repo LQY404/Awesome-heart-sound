@@ -120,6 +120,11 @@ https://istethoscope.peterjbentley.com/heartchallenge
 # ✂️ Segmentation
 ![segmentation methods](Snipaste_2025-12-11_15-25-01.png)
 
+### • Unsupervised segmentation of heart sounds from abrupt changes detection  
+- Paper: https://doi.org/10.1016/j.compbiomed.2025.109712  
+- Year: 2025
+
+  
 ---
 
 # 🤖 Modeling (Feature Extraction / Foundation Models) & Classification
@@ -202,6 +207,11 @@ https://github.com/scientisst/BioSPPy (new)
 - Supports BVP, ECG, EDA, EEG, EMG, PCG, PPG, respiration  
 - Includes filtering, frequency analysis, clustering, biometrics
 - can now evaluate the quality of your signals (only support ECG and EDA signals)
-  
+
+### • **fairseq**  
+https://github.com/facebookresearch/fairseq  
+- Handle audio signals
+- Sequence-to-Sequence Toolkit
+
 
 ---
