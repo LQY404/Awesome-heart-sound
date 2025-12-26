@@ -9,7 +9,7 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 - [Heart-Sound Research Repository](#heart-sound-research-repository)
 - [Laboratories & Projects](#-laboratories-and-projects)
 - [Review Papers](#-review-papers)
-- [Datasets (Open-Source)](#-datasets-open-source)
+- [Datasets (Open-Source)](#-pcg-datasets-open-source)
 - [Pre-processing](#-pre-processing)
 - [Segmentation](#-segmentation)
 - [Modeling (Feature Extraction / Foundation Models) & Classification](#-modeling-feature-extraction--foundation-models--classification)
@@ -30,7 +30,6 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 ---
 
 # 🏫 Laboratories and Projects
-
 
 ### • The MIT-LCP
 - **Institution:** MIT
@@ -119,12 +118,15 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 # ✂️ Segmentation
 ![segmentation methods](Snipaste_2025-12-11_15-25-01.png)
-
-### • Unsupervised segmentation of heart sounds from abrupt changes detection  
+### • Unsupervised segmentation of heart sounds from abrupt changes detection 
 - Paper: https://doi.org/10.1016/j.compbiomed.2025.109712  
 - Year: 2025
 
-  
+### • Logistic Regression-HSMM-Based Heart Sound Segmentation  
+- Paper: https://ieeexplore.ieee.org/document/7234876
+- Year: 2016
+- Code: https://github.com/davidspringer/Springer-Segmentation-Code
+
 ---
 
 # 🤖 Modeling (Feature Extraction / Foundation Models) & Classification
