@@ -31,6 +31,12 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 🏫 Laboratories and Projects
 
+### • The zitniklab
+- **Institution:** Harvard University
+- **Link:**
+  - https://zitniklab.hms.harvard.edu/
+  - https://github.com/mims-harvard
+    
 ### • The Digital Health Lab
 - **Institution:** Samsung Research America
 - **Link:**
