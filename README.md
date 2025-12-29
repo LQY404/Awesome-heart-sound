@@ -31,9 +31,13 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 🏫 Laboratories and Projects
 
+### • The Digital Health Lab
+- **Institution:** Samsung Research America
+- **Link:** https://sra.samsung.com/research-area/digital-health/
+
 ### • The MIT-LCP
 - **Institution:** MIT
-- **Link:** [https://wanglab.ai/](https://lcp.mit.edu/)
+- **Link:** https://lcp.mit.edu/
 
 ### • The BoWang's Lab
 - **Institution:** University of Toronto  
