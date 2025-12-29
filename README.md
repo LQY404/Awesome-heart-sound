@@ -150,7 +150,19 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Code: None
 - NeurIPS2025
 - PPG
-
+  
+### • Fat: Frequency-aware pretraining for enhanced time-series representation learning  
+- Paper: https://dl.acm.org/doi/10.1145/3711896.3736952
+- Code: https://github.com/JiaXiangfei/FAT
+- KDD2025
+- EMG
+  
+### • Frequency-masked embedding inference: A non-contrastive approach for time series representation learning 
+- Paper: https://arxiv.org/abs/2412.20790
+- Code: https://github.com/USTBInnovationPark/Frequencymasked-Embedding-Inference
+- AAAI2025
+- EEG, EMG
+   
 ### • RELCON: RELATIVE CONTRASTIVE LEARNING FOR A MOTION FOUNDATION MODEL FOR WEARABLE DATA 
 - Paper: https://arxiv.org/pdf/2411.18822  
 - Code: https://github.com/maxxu05/relcon
@@ -162,7 +174,13 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Code: https://github.com/maxxu05/pulseppg
 - UbiComp2025
 - PPG
-
+  
+### • Multi frequency contrastive learning representation for time series
+- Paper: https://openreview.net/pdf?id=ecO7WOIlMD
+- Code: https://github.com/duanjufang/MF-CLR
+- ICML2024
+- ECG, EMG
+ 
 ### • REBAR: RETRIEVAL-BASED RECONSTRUCTION FOR TIME-SERIES CONTRASTIVE LEARNING (2024)  
 - Paper: https://arxiv.org/pdf/2311.00519 
 - Code: https://github.com/maxxu05/rebar
@@ -187,6 +205,13 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - ICLR2024
 - PPG
 
+### • Self-supervised contrastive pre-training for time series via time-frequency consistency
+- Paper: https://openreview.net/forum?id=OJ4mMfGKLN  
+- Code: https://github.com/mims-harvard/TFC-pretraining
+- NeurIPS2022
+- EEG, ECG, EMG
+
+  
 ---
 
 ## 🎯 Task Models
