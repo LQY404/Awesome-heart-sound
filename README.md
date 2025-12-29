@@ -33,8 +33,10 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 ### • The Digital Health Lab
 - **Institution:** Samsung Research America
-- **Link:** https://sra.samsung.com/research-area/digital-health/
-
+- **Link:**
+  - https://sra.samsung.com/research-area/digital-health/
+  - https://sra.samsung.com/publications/
+    
 ### • The MIT-LCP
 - **Institution:** MIT
 - **Link:** https://lcp.mit.edu/
