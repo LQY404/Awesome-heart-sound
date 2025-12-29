@@ -139,7 +139,13 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
 
-### • Wavelet-Based Masked Multiscale Reconstruction for PPGFoundation Models (2025)  
+### • PhysioWave: A Multi-Scale Wavelet-Transformer for Physiological Signal Representation  
+- Paper: https://arxiv.org/pdf/2506.10351  
+- Code: https://github.com/ForeverBlue816/PhysioWave
+- NeurIPS2025
+- ECG, EMG
+
+### • Wavelet-Based Masked Multiscale Reconstruction for PPGFoundation Models
 - Paper: https://openreview.net/pdf?id=kJbY2CsTPb  
 - Code: None
 - NeurIPS2025
