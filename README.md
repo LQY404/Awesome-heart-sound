@@ -151,7 +151,7 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - NeurIPS2025
 - ECG, EMG
 
-### • Wavelet-Based Masked Multiscale Reconstruction for PPGFoundation Models
+### • Wavelet-Based Masked Multiscale Reconstruction for PPG Foundation Models
 - Paper: https://openreview.net/pdf?id=kJbY2CsTPb  
 - Code: None
 - NeurIPS2025
@@ -187,7 +187,7 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - ICML2024
 - ECG, EMG
  
-### • REBAR: RETRIEVAL-BASED RECONSTRUCTION FOR TIME-SERIES CONTRASTIVE LEARNING (2024)  
+### • REBAR: RETRIEVAL-BASED RECONSTRUCTION FOR TIME-SERIES CONTRASTIVE LEARNING
 - Paper: https://arxiv.org/pdf/2311.00519 
 - Code: https://github.com/maxxu05/rebar
 - ICLR2024
