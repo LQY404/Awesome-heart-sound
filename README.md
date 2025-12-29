@@ -133,33 +133,45 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
 
-### • RELCON: RELATIVE CONTRASTIVE LEARNING FOR A MOTION FOUNDATION MODEL FOR WEARABLE DATA (2025)  
-- Paper: https://arxiv.org/pdf/2411.18822  
-- Code: https://github.com/maxxu05/relcon
+### • Wavelet-Based Masked Multiscale Reconstruction for PPGFoundation Models (2025)  
+- Paper: https://openreview.net/pdf?id=kJbY2CsTPb  
+- Code: None
+- NeurIPS2025
 - PPG
 
-### • Pulse-PPG: Field-Trained PPG Foundation Model (2025)  
+### • RELCON: RELATIVE CONTRASTIVE LEARNING FOR A MOTION FOUNDATION MODEL FOR WEARABLE DATA 
+- Paper: https://arxiv.org/pdf/2411.18822  
+- Code: https://github.com/maxxu05/relcon
+- ICLR2025
+- PPG
+
+### • Pulse-PPG: An Open-Source Field-Trained PPG Foundation Model for Wearable Applications Across Lab and Field Settings 
 - Paper: https://arxiv.org/abs/2502.01108  
 - Code: https://github.com/maxxu05/pulseppg
+- UbiComp2025
 - PPG
 
 ### • REBAR: RETRIEVAL-BASED RECONSTRUCTION FOR TIME-SERIES CONTRASTIVE LEARNING (2024)  
 - Paper: https://arxiv.org/pdf/2311.00519 
 - Code: https://github.com/maxxu05/rebar
+- ICLR2024
 - PPG
 
-### • *Foundation Models for Cardiovascular Disease Detection via Biosignals from Digital Stethoscopes* (2024, Nature npj Cardiovascular Health)  
+### • Foundation Models for Cardiovascular Disease Detection via Biosignals from Digital Stethoscopes
 - Paper: https://www.nature.com/articles/s44325-024-00027-5
+- Npj Cardiovascular Health2024
 - PCG
 
-### • ECG-FM: An Open Electrocardiogram Foundation Model (2024)  
+### • ECG-FM: An Open Electrocardiogram Foundation Model 
 - Paper: https://arxiv.org/pdf/2408.05178  
 - Code: https://github.com/bowang-lab/ECG-FM
+- arxiv2024
 - ECG
 
-### • PAPAGEI: Open Foundation Models for Optical Physiological Signals (2024)  
+### • PAPAGEI: Open Foundation Models for Optical Physiological Signals
 - Paper: https://arxiv.org/html/2410.20542v1  
 - Code: https://github.com/Nokia-Bell-Labs/papagei-foundation-model
+- ICLR2024
 - PPG
 
 ---
