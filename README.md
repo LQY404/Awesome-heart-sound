@@ -162,7 +162,13 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Code: https://github.com/JiaXiangfei/FAT
 - KDD2025
 - EMG
-  
+
+### • TolerantECG: A Foundation Model for Imperfect Electrocardiogram
+- Paper: https://arxiv.org/pdf/2507.09887
+- Code: https://github.com/Fsoft-AIC/TolerantECG
+- ACMMM2025
+- ECG-text
+   
 ### • Frequency-masked embedding inference: A non-contrastive approach for time series representation learning 
 - Paper: https://arxiv.org/abs/2412.20790
 - Code: https://github.com/USTBInnovationPark/Frequencymasked-Embedding-Inference
