@@ -197,7 +197,7 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Paper: https://www.nature.com/articles/s44325-024-00027-5
 - Code: None
 - Npj Cardiovascular Health2024
-- PCG
+- PCG, ECG
 
 ### • ECG-FM: An Open Electrocardiogram Foundation Model 
 - Paper: https://arxiv.org/pdf/2408.05178  
