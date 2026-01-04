@@ -134,6 +134,10 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Paper: https://doi.org/10.1016/j.compbiomed.2025.109712  
 - Year: 2025
 
+### • A Deep-Learning-Based Multi-modal ECG and PCG Processing Framework for Label Efficient Heart Sound Segmentation 
+- Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10614435
+- Year: 2024
+  
 ### • Logistic Regression-HSMM-Based Heart Sound Segmentation  
 - Paper: https://ieeexplore.ieee.org/document/7234876
 - Year: 2016
