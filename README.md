@@ -134,6 +134,10 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Paper: https://doi.org/10.1016/j.compbiomed.2025.109712  
 - Year: 2025
 
+### • TOPSEG: A MULTI-SCALE TOPOLOGICAL FRAMEWORK FOR DATA-EFFICIENT HEART SOUND SEGMENTATION
+- Paper: https://arxiv.org/pdf/2510.17346
+- Year: 2025
+  
 ### • A Deep-Learning-Based Multi-modal ECG and PCG Processing Framework for Label Efficient Heart Sound Segmentation 
 - Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10614435
 - Year: 2024
