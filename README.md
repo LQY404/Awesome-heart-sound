@@ -77,15 +77,19 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 📚 Review Papers
 
-### • *Foundation Models for Biosignals: A Survey* (2025)  
+### • *Foundation Models for Biosignals: A Survey*
 - Link: https://www.techrxiv.org/users/953631/articles/1322825/master/file/data/25_BFM_Survey/25_BFM_Survey.pdf
-
-### • *A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era* (2023)  
+- 2025
+  
+### • *A Comprehensive Survey on Heart Sound Analysis in the Deep Learning Era*
 - Repo: https://github.com/zhaoren91/awesome-heart-sound-analysis
+- 2023
 
-### • *Deep Learning in Physiological Signal Data: A Survey* (2020, Sensors)
+### • *Deep Learning in Physiological Signal Data: A Survey*
+- Link: https://www.mdpi.com/1424-8220/20/4/969
+- 2020
 
-### • *A Review of Signal Processing Techniques for Heart Sound Analysis in Clinical Diagnosis* (2012)  
+### • *A Review of Signal Processing Techniques for Heart Sound Analysis in Clinical Diagnosis*
 *Journal of Medical Engineering & Technology*  
 **Key PCG drawbacks (important):**  
 - Lack of frequency-domain information about heart sound components  
@@ -236,28 +240,39 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🎯 Task Models
 
-### • Assessing Utility of Audio Foundation Models for Heart & Respiratory Sound Analysis (2025)  
-- Paper: https://arxiv.org/pdf/2504.18004  
+### • Assessing Utility of Audio Foundation Models for Heart & Respiratory Sound Analysis
+- Paper: https://arxiv.org/pdf/2504.18004
+- 2025
 
-### • AuscMLLM: Multimodal LLM for Heart Sound Analysis (2025)  
-- Paper: https://ieeexplore.ieee.org/abstract/document/10889373  
+### • AuscMLLM: Multimodal LLM for Heart Sound Analysis 
+- Paper: https://ieeexplore.ieee.org/abstract/document/10889373
+- 2025
 
-### • HSDreport: Heart Sound Diagnosis with Echocardiography Reports (2024)  
-- Paper: https://arxiv.org/abs/2408.08669  
+### • HSDreport: Heart Sound Diagnosis with Echocardiography Reports
+- Paper: https://arxiv.org/abs/2408.08669
+- 2024
 
-### • Heart Sound Classification Using Deep Learning and Log-Mel Spectrogram (2023)  
+### • Heart Sound Classification Using Deep Learning and Log-Mel Spectrogram
 - Paper: https://link.springer.com/article/10.1007/s00034-022-02124-1  
-- Code: https://github.com/tuanktcs/Heart-sound-classification  
+- Code: https://github.com/tuanktcs/Heart-sound-classification
+- 2023
 
-### • Deep Attention-Based Representation Learning for Heart Sound Classification (2021)  
-- Paper: https://arxiv.org/abs/2101.04979  
+### • Deep Attention-Based Representation Learning for Heart Sound Classification
+- Paper: https://arxiv.org/abs/2101.04979
+- 2021
 
 ---
 
 # 📊 Evaluation
 
-### • *Listening to the Heart: Unifying Open Audio Databases for Cardiology Research* (2024)  
-- Paper: https://mobile-systems.cl.cam.ac.uk/papers/cinc24.pdf  
+### • *Comparative Analysis of CNN and Transformer Architectures with Heart Cycle Normalization for Automated Phonocardiogram Classification*
+- Paper: https://arxiv.org/pdf/2507.07058
+- EMBC
+- 2025
+
+### • *Listening to the Heart: Unifying Open Audio Databases for Cardiology Research*
+- Paper: https://mobile-systems.cl.cam.ac.uk/papers/cinc24.pdf
+- 2024
 
 ---
 
