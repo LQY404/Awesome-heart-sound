@@ -157,6 +157,18 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
 
+### • REVE: A Foundation Model for EEG - Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects
+- Paper: https://openreview.net/attachment?id=ZeFMtRBy4Z&name=pdf
+- Code: https://brain-bzh.github.io/reve/
+- NeurIPS2025
+- EEG
+
+### • CSBrain: A Cross-scale Spatiotemporal Brain Foundation Model for EEG Decoding
+- Paper: https://openreview.net/attachment?id=agcXjEHmyW&name=pdf
+- Code: https://github.com/yuchen2199/CSBrain
+- NeurIPS2025
+- EEG
+
 ### • PhysioWave: A Multi-Scale Wavelet-Transformer for Physiological Signal Representation  
 - Paper: https://arxiv.org/pdf/2506.10351  
 - Code: https://github.com/ForeverBlue816/PhysioWave
