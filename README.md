@@ -157,6 +157,12 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
 
+### • SensorLM: Learning the Language of Wearable Sensors
+- Paper: https://openreview.net/attachment?id=TrHeq0yFhv&name=pdf
+- Code: https://github.com/Google-Health/consumer-health-research/tree/main/sensorlm
+- NeurIPS2025
+- PPG, text pair
+  
 ### • REVE: A Foundation Model for EEG - Adapting to Any Setup with Large-Scale Pretraining on 25,000 Subjects
 - Paper: https://openreview.net/attachment?id=ZeFMtRBy4Z&name=pdf
 - Code: https://brain-bzh.github.io/reve/
