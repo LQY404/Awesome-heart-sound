@@ -161,7 +161,7 @@ https://istethoscope.peterjbentley.com/heartchallenge
 - Paper: https://openreview.net/attachment?id=LwPjJHVWSn&name=pdf
 - Code: https://github.com/eth-siplab/Learning-with-FrameProjections
 - NeurIPS2025
-- PPG
+- PPG, ECG, EEG
   
 ### • SensorLM: Learning the Language of Wearable Sensors
 - Paper: https://openreview.net/attachment?id=TrHeq0yFhv&name=pdf
