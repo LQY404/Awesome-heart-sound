@@ -324,5 +324,36 @@ https://github.com/facebookresearch/fairseq
 - Handle audio signals
 - Sequence-to-Sequence Toolkit
 
+---
+
+# Related works
+
+### • AdaLRS: Loss-Guided Adaptive Learning Rate Search for Efficient Foundation Model Pretraining
+- Paper: https://openreview.net/attachment?id=Rc489jcc30&name=pdf
+- Code: None
+- NeurIPS2025
+
+### • ComRank: Ranking Loss for Multi-Label Complementary Label Learning
+- Paper: https://openreview.net/attachment?id=uVjuiPP4aP&name=pdf
+- Code: https://github.com/JellyJamZhu/ComRank
+- NeurIPS2025
+
+### • Understanding and Enhancing Mask-Based Pretraining towards Universal Representations
+- Paper: https://openreview.net/attachment?id=oQbTbio99T&name=pdf
+- Code: https://github.com/MingzeDong/r2mae
+- NeurIPS2025
+
+### • Understanding Contrastive Learning via Gaussian Mixture Models
+- Paper: https://openreview.net/attachment?id=nCAdkkAeR9&name=pdf
+- Code: None
+- NeurIPS2025
+
+### • Adaptive and Multi-scale Affinity Alignment for Hierarchical Contrastive Learning
+- Paper: https://openreview.net/attachment?id=sZ22INHr9H&name=pdf
+- Code: None
+- NeurIPS2025
+
+
 
 ---
+
