@@ -157,6 +157,12 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
 
+### • Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections
+- Paper: https://openreview.net/attachment?id=LwPjJHVWSn&name=pdf
+- Code: https://github.com/eth-siplab/Learning-with-FrameProjections
+- NeurIPS2025
+- PPG
+  
 ### • SensorLM: Learning the Language of Wearable Sensors
 - Paper: https://openreview.net/attachment?id=TrHeq0yFhv&name=pdf
 - Code: https://github.com/Google-Health/consumer-health-research/tree/main/sensorlm
