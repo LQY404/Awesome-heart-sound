@@ -157,6 +157,12 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
 
+### • LUNA:Efficient and Topology-Agnostic Foundation Model for EEG Signal Analysis
+- Paper: https://openreview.net/attachment?id=uazfjnFL0G&name=pdf
+- Code: https://github.com/pulp-bio/biofoundation
+- NeurIPS2025
+- EEG
+  
 ### • Learning Without Augmenting: Unsupervised Time Series Representation Learning via Frame Projections
 - Paper: https://openreview.net/attachment?id=LwPjJHVWSn&name=pdf
 - Code: https://github.com/eth-siplab/Learning-with-FrameProjections
@@ -327,6 +333,16 @@ https://github.com/facebookresearch/fairseq
 ---
 
 # Related works
+
+### • You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering
+- Paper: https://openreview.net/attachment?id=JqyEIr41M4&name=pdf
+- Code: https://github.com/l-h-y168/DCBoost
+- NeurIPS2025
+
+### • Multi-Scale Finetuning for Encoder-based Time Series Foundation Models
+- Paper: https://openreview.net/attachment?id=OPOBV0zXu7&name=pdf
+- Code: https://github.com/zqiao11/MSFT
+- NeurIPS2025
 
 ### • AdaLRS: Loss-Guided Adaptive Learning Rate Search for Efficient Foundation Model Pretraining
 - Paper: https://openreview.net/attachment?id=Rc489jcc30&name=pdf
