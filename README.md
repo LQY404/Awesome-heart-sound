@@ -156,7 +156,19 @@ https://istethoscope.peterjbentley.com/heartchallenge
 # 🤖 Modeling (Feature Extraction / Foundation Models) & Classification
 
 ## 🧱 Foundation Models
-
+  
+### • GEM:Empowering MLLMforGrounded ECG Understanding with Time Series and Images
+- Paper: https://openreview.net/attachment?id=idtZwmjakN&name=pdf
+- Code: https://github.com/lanxiang1017/GEM
+- NeurIPS2025
+- ECG, text pair
+  
+### • MIRA: Medical Time Series Foundation Model for Real-World Health Data
+- Paper: https://openreview.net/attachment?id=Auy2DmlJBO&name=pdf
+- Code: https://github.com/microsoft/MIRA
+- NeurIPS2025
+- EEG, ECG
+  
 ### • LUNA:Efficient and Topology-Agnostic Foundation Model for EEG Signal Analysis
 - Paper: https://openreview.net/attachment?id=uazfjnFL0G&name=pdf
 - Code: https://github.com/pulp-bio/biofoundation
