@@ -157,7 +157,7 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
   
-### • GEM:Empowering MLLMforGrounded ECG Understanding with Time Series and Images
+### • GEM:Empowering MLLM for Grounded ECG Understanding with Time Series and Images
 - Paper: https://openreview.net/attachment?id=idtZwmjakN&name=pdf
 - Code: https://github.com/lanxiang1017/GEM
 - NeurIPS2025
