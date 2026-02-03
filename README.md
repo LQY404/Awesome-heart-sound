@@ -17,7 +17,7 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
   - [Task Models](#-task-models)
 - [Evaluation](#-evaluation)
 - [Research Toolboxes](#-research-toolboxes)
-- [Related works](#-related-works)
+- [Related works](#related-works)
 
 ---
 
