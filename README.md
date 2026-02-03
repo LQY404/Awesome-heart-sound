@@ -17,6 +17,7 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
   - [Task Models](#-task-models)
 - [Evaluation](#-evaluation)
 - [Research Toolboxes](#-research-toolboxes)
+- [Related works](#-related-works)
 
 ---
 
@@ -156,6 +157,18 @@ https://istethoscope.peterjbentley.com/heartchallenge
 # 🤖 Modeling (Feature Extraction / Foundation Models) & Classification
 
 ## 🧱 Foundation Models
+    
+### • Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks
+- Paper: https://openreview.net/attachment?id=xXRqWpt3Xr&name=pdf
+- Code: None (waiting...)
+- ICLR2026
+- ECG
+  
+### • HIMAE: HIERARCHICAL MASKED AUTOENCODERS DISCOVER RESOLUTION-SPECIFIC STRUCTURE IN WEARABLETIMESERIES
+- Paper: https://openreview.net/attachment?id=iPAy5VpGQa&name=pdf
+- Code: None (waiting...)
+- ICLR2026
+- ECG, PPG
   
 ### • GEM:Empowering MLLM for Grounded ECG Understanding with Time Series and Images
 - Paper: https://openreview.net/attachment?id=idtZwmjakN&name=pdf
@@ -345,6 +358,11 @@ https://github.com/facebookresearch/fairseq
 ---
 
 # Related works
+
+### • CAN WE GENERATE PORTABLE REPRESENTATIONS FOR CLINICAL TIME SERIES DATA USING LLMS ?
+- Paper: https://openreview.net/attachment?id=pXw0uRTSKT&name=pdf
+- Code: https://github.com/l-h-y168/DCBoost
+- ICLR2026
 
 ### • You Can Trust Your Clustering Model: A Parameter-free Self-Boosting Plug-in for Deep Clustering
 - Paper: https://openreview.net/attachment?id=JqyEIr41M4&name=pdf
