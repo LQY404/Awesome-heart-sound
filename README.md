@@ -359,6 +359,11 @@ https://github.com/facebookresearch/fairseq
 
 # Related works
 
+### • DECENTRALIZED ATTENTION FAILS CENTRALIZED SIGNALS: RETHINKING TRANSFORMERS FOR MEDICAL TIME SERIES
+- Paper: https://openreview.net/attachment?id=oZJFY2BQt2&name=pdf
+- Code: https://anonymous.4open.science/r/TeCh-24 (update)
+- ICLR2026
+
 ### • CAN WE GENERATE PORTABLE REPRESENTATIONS FOR CLINICAL TIME SERIES DATA USING LLMS ?
 - Paper: https://openreview.net/attachment?id=pXw0uRTSKT&name=pdf
 - Code: https://github.com/l-h-y168/DCBoost
