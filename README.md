@@ -102,6 +102,15 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 📂 PCG Datasets (Open-Source)
 
+### • **Descriptor: Heart and Lung Sounds Dataset Recorded From a Clinical Manikin Using Digital Stethoscope (HLS-CMDS)** (2025)  
+https://github.com/Torabiy/HLS-CMDS
+
+### • **Synthetic Heart Sound Dataset** (2023)  
+https://arrow.tudublin.ie/datas/20/
+
+### • **The CirCor DigiScope Phonocardiogram Dataset** (2022)  
+https://physionet.org/content/circor-heart-sound/1.0.3/
+
 ### • **BMD-HS Dataset** (2024)  
 https://github.com/sani002/BMD-HS-Dataset/tree/main
 
