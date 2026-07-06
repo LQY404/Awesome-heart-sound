@@ -126,9 +126,6 @@ http://43.163.195.227/hss/
 ### • **PhysioNet Challenge Dataset** (2016)  
 https://physionet.org/content/challenge-2016/1.0.0/files
 
-### • **CirCor DigiScope Dataset** (2014–2015)  
-https://physionet.org/content/circor-heart-sound/
-
 ### • **PASCAL Heart Sound Challenge** (2011)  
 https://istethoscope.peterjbentley.com/heartchallenge
 
