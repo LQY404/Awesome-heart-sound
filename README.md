@@ -6,7 +6,7 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # Table of Contents
 
-- [Heart-Sound Research Repository](#heart-sound-research-repository)
+- [Common Biosignals](#-common-biosignals)
 - [Laboratories & Projects](#-laboratories-and-projects)
 - [Review Papers](#-review-papers)
 - [Datasets (Open-Source)](#-pcg-datasets-open-source)
