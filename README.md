@@ -164,7 +164,7 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🧱 Foundation Models
     
-### • Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks
+### • Physiology-Aware Masked Cross-Modal Reconstruction for Biosignal Representation Learning
 - Paper: https://openreview.net/attachment?id=xXRqWpt3Xr&name=pdf, https://arxiv.org/pdf/2605.00973
 - Code: https://github.com/hzhou3/xMAE
 - ICML2026
