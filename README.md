@@ -301,6 +301,12 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🎯 Task Models
 
+### • Scaling to Multimodal and Multichannel Heart Sound Classification with Synthetic and Augmented Biosignals
+- Paper: https://arxiv.org/pdf/2509.11606
+- code: https://github.com/MilanMarocchi/noise-robust-cad-conformer
+- arxiv2025
+- PCG, ECG
+
 ### • Noise-Robust Contrastive Learning with an MFCC-Conformer For Coronary Artery Disease Detection
 - Paper: https://arxiv.org/pdf/2601.18295
 - code: https://github.com/MilanMarocchi/noise-robust-cad-conformer
