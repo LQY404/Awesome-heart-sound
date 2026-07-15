@@ -301,6 +301,12 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 ## 🎯 Task Models
 
+### • Noise-Robust Contrastive Learning with an MFCC-Conformer For Coronary Artery Disease Detection
+- Paper: https://arxiv.org/pdf/2601.18295
+- code: https://github.com/MilanMarocchi/noise-robust-cad-conformer
+- ICASSP2026
+- PCG (!!!)
+
 ### • Assessing Utility of Audio Foundation Models for Heart & Respiratory Sound Analysis
 - Paper: https://arxiv.org/pdf/2504.18004
 - 2025
@@ -325,6 +331,10 @@ https://istethoscope.peterjbentley.com/heartchallenge
 ---
 
 # 📊 Evaluation
+
+### • *MuteBench: Modality Unavailability Tolerance Evaluation for Incomplete Multimodal Fusion*
+- Paper: https://arxiv.org/pdf/2605.15235
+- 2026
 
 ### • *Comparative Analysis of CNN and Transformer Architectures with Heart Cycle Normalization for Automated Phonocardiogram Classification*
 - Paper: https://arxiv.org/pdf/2507.07058
