@@ -165,6 +165,12 @@ https://istethoscope.peterjbentley.com/heartchallenge
 ## 🧱 Foundation Models
     
 ### • Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks
+- Paper: https://openreview.net/attachment?id=xXRqWpt3Xr&name=pdf, https://arxiv.org/pdf/2605.00973
+- Code: https://github.com/hzhou3/xMAE
+- ICML2026
+- ECG, PPG, relationship (!!!)
+  
+### • Benchmarking ECG Foundational Models: A Reality Check Across Clinical Tasks
 - Paper: https://openreview.net/attachment?id=xXRqWpt3Xr&name=pdf
 - Code: None (waiting...)
 - ICLR2026
