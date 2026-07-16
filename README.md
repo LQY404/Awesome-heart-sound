@@ -344,6 +344,10 @@ https://istethoscope.peterjbentley.com/heartchallenge
 
 # 📊 Evaluation
 
+### • *CaReCoS: A Spectrogram based Visual Benchmark for Cardiac, Respiratory and Cough Sounds*
+- Paper: https://arxiv.org/pdf/2607.03356
+- 2026
+
 ### • *MuteBench: Modality Unavailability Tolerance Evaluation for Incomplete Multimodal Fusion*
 - Paper: https://arxiv.org/pdf/2605.15235
 - 2026
