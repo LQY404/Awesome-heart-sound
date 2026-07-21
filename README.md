@@ -391,6 +391,16 @@ https://github.com/facebookresearch/fairseq
 
 # Related works
 
+### • Domain Knowledge is Power: Leveraging Physiological Priors for Self-Supervised Representation Learning in Electrocardiography
+- Paper: https://arxiv.org/pdf/2509.08116
+- Code: https://github.com/nooshinmaghsoodi/PhysioCLR
+- TBME2025
+
+### • Position: A Dynamical Systems Perspective is Needed to Advance Time Series Modeling
+- Paper: https://arxiv.org/pdf/2602.16864
+- Code: None
+- ICML2026
+
 ### • DECENTRALIZED ATTENTION FAILS CENTRALIZED SIGNALS: RETHINKING TRANSFORMERS FOR MEDICAL TIME SERIES
 - Paper: https://openreview.net/attachment?id=oZJFY2BQt2&name=pdf
 - Code: https://anonymous.4open.science/r/TeCh-24 (update)
