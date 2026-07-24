@@ -102,32 +102,53 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 📂 PCG Datasets (Open-Source)
 
+### • **BMD-HS Dataset** (2026)  
+[dataset link](https://github.com/sani002/BMD-HS-Dataset/tree/main)
+
 ### • **Descriptor: Heart and Lung Sounds Dataset Recorded From a Clinical Manikin Using Digital Stethoscope (HLS-CMDS)** (2025)  
-https://github.com/Torabiy/HLS-CMDS
+[dataset link](https://github.com/Torabiy/HLS-CMDS)
+
+### • **ZCHSound Dataset** (2024)  
+[dataset link](http://zchsound.ncrcch.org.cn/dataset) (Unreachable)
+[dataset link](https://github.com/WeiJieOvO/ZCHSound-Dataset)
+
+### • **SensSmartTech database of cardiovascular signals synchronously recorded by an electrocardiograph, phonocardiograph, photoplethysmograph and accelerometer** (2024)  
+[dataset link](https://physionet.org/content/senssmarttech/1.0.0/)
 
 ### • **Synthetic Heart Sound Dataset** (2023)  
-https://arrow.tudublin.ie/datas/20/
-
-### • **The CirCor DigiScope Phonocardiogram Dataset** (2022)  
-https://physionet.org/content/circor-heart-sound/1.0.3/
-
-### • **BMD-HS Dataset** (2024)  
-https://github.com/sani002/BMD-HS-Dataset/tree/main
+[dataset link](https://arrow.tudublin.ie/datas/20/)
 
 ### • **Heart Sound Dataset (for BP monitoring)**  
-https://github.com/Victoria510/HS-BP
+[dataset link](https://github.com/Victoria510/HS-BP) (Unreachable)
 
-### • **ZCHSound Dataset**  
-http://zchsound.ncrcch.org.cn/dataset
+### • **Indian Institute of Science Fetal Heart Sound Database (IIScFHSDB)** (2022)  
+[dataset link](https://physionet.org/content/fetalheartsounddata/1.0/)
+
+### • **The CirCor DigiScope Phonocardiogram Dataset** (2022)  
+[dataset link](https://physionet.org/content/circor-heart-sound/1.0.3/)
+
+### • **EPHNOGRAM: A Simultaneous Electrocardiogram and Phonocardiogram Database* (2021)  
+[dataset link](https://physionet.org/content/ephnogram/1.0.0/)
+
+### • **Shiraz University Fetal Heart Sounds Database** (2021)  
+[dataset link](https://physionet.org/content/sufhsdb/)
 
 ### • **Heart Sounds Shenzhen Corpus (HSS)** (2019)  
-http://43.163.195.227/hss/
+[dataset link](http://43.163.195.227/hss/ (Unreachable))
 
 ### • **PhysioNet Challenge Dataset** (2016)  
-https://physionet.org/content/challenge-2016/1.0.0/files
+[dataset link](https://physionet.org/content/challenge-2016/1.0.0/files) (Unreachable)
+[dataset link](https://physionet.org/content/challenge-2016/get-zip/1.0.0/)
+
+### • **Simulated Fetal Phonocardiograms** (2015)  
+[dataset link](https://physionet.org/content/fpcgdb/1.0.0/)
+
+### • **Simulated Fetal Phonocardiograms** (2014)  
+[dataset link](https://physionet.org/content/simfpcgdb/1.0.0/)
 
 ### • **PASCAL Heart Sound Challenge** (2011)  
-https://istethoscope.peterjbentley.com/heartchallenge
+[dataset link](https://istethoscope.peterjbentley.com/heartchallenge) (Unreachable)
+[dataset link](https://codeload.github.com/Wadahupy/Heartbeat-Sounds-Dataset/zip/refs/heads/main)
 
 ---
 
