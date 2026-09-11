@@ -188,6 +188,12 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 ## 🧱 Foundation Models
     
+### • CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation
+- Paper: https://arxiv.org/pdf/2608.12944
+- Code: https://github.com/hamzashafiq28/CardioState-Jepa
+- arxiv2026.8
+- ECG, PPG, PCG
+  
 ### • Physiology-Aware Masked Cross-Modal Reconstruction for Biosignal Representation Learning
 - Paper: https://openreview.net/attachment?id=xXRqWpt3Xr&name=pdf, https://arxiv.org/pdf/2605.00973
 - Code: https://github.com/hzhou3/xMAE
