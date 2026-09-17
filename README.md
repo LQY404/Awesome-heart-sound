@@ -137,6 +137,9 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 ### • **Heart Sounds Shenzhen Corpus (HSS)** (2019)  
 [dataset link](http://43.163.195.227/hss/ (Unreachable))
 
+### • **Classification-of-Heart-Sound-Signal-Using-Multiple-Features ** (2018)  
+[dataset link](https://github.com/yaseen21khan/Classification-of-Heart-Sound-Signal-Using-Multiple-Features-)
+
 ### • **PhysioNet Challenge Dataset** (2016)  
 [dataset link](https://physionet.org/content/challenge-2016/1.0.0/files) (Unreachable)
 
