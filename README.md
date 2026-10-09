@@ -32,6 +32,11 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 # 🏫 Laboratories and Projects
 
+### • The Hong's lab
+- **Institution:** Peking University
+- **Link:**
+  - https://hsd1503.github.io/index.html
+  
 ### • The zitniklab
 - **Institution:** Harvard University
 - **Link:**
