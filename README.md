@@ -153,9 +153,6 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 ### • **Simulated Fetal Phonocardiograms** (2015)  
 [dataset link](https://physionet.org/content/fpcgdb/1.0.0/)
 
-### • **Simulated Fetal Phonocardiograms** (2014)  
-[dataset link](https://physionet.org/content/simfpcgdb/1.0.0/)
-
 ### • **PASCAL Heart Sound Challenge** (2011)  
 [dataset link](https://istethoscope.peterjbentley.com/heartchallenge) (Unreachable)
 
