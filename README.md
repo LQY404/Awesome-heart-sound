@@ -133,6 +133,11 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 ### • **The CirCor DigiScope Phonocardiogram Dataset** (2022)  
 [dataset link](https://physionet.org/content/circor-heart-sound/1.0.3/)
 
+### • **Automated Signal Quality Assessment for Heart Sound Signal byNovel Features and Evaluation in Open Public Datasets (Cardiac disease heart sound (CDHS) Database)* (2021)  
+[dataset link](https://pan.baidu.com/s/1PHJO0ZSJds7NDur0CfpG2Q)
+
+Notice: this dataset includes three open-source datasets and one authors’dataset
+
 ### • **EPHNOGRAM: A Simultaneous Electrocardiogram and Phonocardiogram Database* (2021)  
 [dataset link](https://physionet.org/content/ephnogram/1.0.0/)
 
@@ -152,6 +157,9 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 
 ### • **Simulated Fetal Phonocardiograms** (2015)  
 [dataset link](https://physionet.org/content/fpcgdb/1.0.0/)
+
+### • **Performance Evaluation of Heart Sounds Biometric Systems on an Open Dataset（hsct）** (2013)  
+[dataset link](http://www.diit.unict.it/hsct11) (Unreachable)
 
 ### • **PASCAL Heart Sound Challenge** (2011)  
 [dataset link](https://istethoscope.peterjbentley.com/heartchallenge) (Unreachable)
