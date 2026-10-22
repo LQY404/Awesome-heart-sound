@@ -201,6 +201,24 @@ Notice: this dataset includes three open-source datasets and one authors’datas
 
 ## 🧱 Foundation Models
     
+### • MS-ECG-FM: Towards a More Universal Electrocardiogram Foundation Model for Health Monitoring using Multi-source Contrastive Learning
+- Paper: https://www.alphaxiv.org/pdf/2610.07662
+- Code: None
+- arxiv2026.10
+- ECG+text, multimodel
+    
+### • Label-Efficient Deep Learning for ECG Delineation: A Multi-Dataset Benchmark against Widely Used Delineation Tools
+- Paper: alphaxiv.org/pdf/2610.07885
+- Code: None
+- arxiv2026.10
+- ECG, benchmark
+  
+### • PPG-LM: A Photoplethysmography-Language Model with Multi-Level Clinical Alignment
+- Paper: https://arxiv.org/abs/2609.33516
+- Code: None
+- arxiv2026.9
+- PPG+text, multimodel
+  
 ### • CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation
 - Paper: https://arxiv.org/pdf/2608.12944
 - Code: https://github.com/hamzashafiq28/CardioState-Jepa
