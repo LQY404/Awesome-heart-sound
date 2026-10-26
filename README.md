@@ -404,7 +404,7 @@ Notice: this dataset includes three open-source datasets and one authors’datas
 
 ---
 
-## World Models
+##  World Models
 
 ### • A world model simulates the latent dynamics of human health
 - Paper: https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v3
