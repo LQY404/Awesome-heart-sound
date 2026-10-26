@@ -15,6 +15,7 @@ Related biosignals (ECG/EEG/PPG/etc.) are also included for broader context.
 - [Modeling (Feature Extraction / Foundation Models) & Classification](#-modeling-feature-extraction--foundation-models--classification)
   - [Foundation Models](#-foundation-models)
   - [Task Models](#-task-models)
+  - [World Models](#-world-models)
 - [Evaluation](#-evaluation)
 - [Research Toolboxes](#-research-toolboxes)
 - [Related works](#related-works)
@@ -400,6 +401,16 @@ Notice: this dataset includes three open-source datasets and one authors’datas
 ### • Deep Attention-Based Representation Learning for Heart Sound Classification
 - Paper: https://arxiv.org/abs/2101.04979
 - 2021
+
+---
+
+## World Models
+
+### • A world model simulates the latent dynamics of human health
+- Paper: https://www.medrxiv.org/content/10.64898/2026.09.19.26363460v3
+- code: None
+- arxiv2026.09
+
 
 ---
 
